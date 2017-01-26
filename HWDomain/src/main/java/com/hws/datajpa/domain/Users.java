@@ -1,6 +1,7 @@
 package com.hws.datajpa.domain;
 
 import java.io.Serializable;
+
 import javax.persistence.*;
 
 
